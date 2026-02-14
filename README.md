@@ -82,3 +82,17 @@ This project demonstrates how enterprise-level dashboards can:
 - Strengthen international expansion strategy
 - Align production planning with demand
 - Shift focus from revenue volume to sustainable profitability
+
+---
+
+## 📸 Dashboard Preview  
+
+<img src="screenshots/Story-1.png" width="800">
+
+<img src="screenshots/Story-2.png" width="800">
+
+<img src="screenshots/Story-3.png" width="800">
+
+<img src="screenshots/Story-4.png" width="800">
+
+<img src="screenshots/Story-5.png" width="800">
